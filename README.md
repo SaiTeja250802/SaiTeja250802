@@ -5,6 +5,16 @@
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952vbcz4dowh6a92qoesodaic89wk99inoewdr6y0n5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 📫 How to reach me **saiteja.amgoth@gmail.com**
+<h3>Current Projects</h3>
+<ul>
+  <li>🔍 **Deep Learning-based Bitcoin Trend Prediction**</li>
+  <li>🛡️ **Real-Time Anti-Spoofing Detector**</li>
+  <li>❓ **Duplicate Questionnaire Checker**</li>
+  <li>🌐 **Virtual Language Translator**</li>
+  <li>💳 **Credit Card Fraud Detection**</li>
+  <li>📰 **Fake News Classifier**</li>
+</ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
