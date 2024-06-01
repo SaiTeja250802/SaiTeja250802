@@ -7,7 +7,7 @@
 - 📫 How to reach me **saiteja.amgoth@gmail.com**
 - <h3>About Me</h3>
 <ul>
-  <li>🌟 <strong>Developer</strong>: Experienced in Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, LLM</li>
+  <li>🌟 <strong>Developer</strong>: Experienced in Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Large Language Models(LLM)</li>
   <li>🛠️ <strong>Problem Solver</strong>: Enjoy tackling complex challenges and finding efficient solutions.</li>
   <li>📚 <strong>Lifelong Learner</strong>: Always eager to learn new technologies and improve my skills.</li>
   <li>💬 <strong>Collaborator</strong>: Open to collaboration on exciting projects and ideas.</li>
