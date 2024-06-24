@@ -1,4 +1,4 @@
-![logo](https://github.com/SaiTeja250802/SaiTeja250802/blob/main/git%20banner.png)
+<!-- ![logo](https://github.com/SaiTeja250802/SaiTeja250802/blob/main/git%20banner.png) -->
 
 <h1 align="center">Hi 👋, I'm Sai Teja</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
