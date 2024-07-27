@@ -14,6 +14,7 @@
 </ul>
 <h3>Current Projects</h3>
 <ul>
+  <li>🌐 **AskMe : AI Assistant**</li>
   <li>🔍 **Safety Vision**</li>
   <li>🔍 **Deep Learning-based Bitcoin Trend Prediction**</li>
   <li>🛡️ **Real-Time Anti-Spoofing Detector**</li>
