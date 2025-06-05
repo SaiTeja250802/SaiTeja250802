@@ -22,7 +22,7 @@
 ### 🚀 Featured Projects
 
 #### 🤖 AI / Data Science / GenAI
-- **[AskMe: AI Assistant](https://github.com/SaiTeja250802/AskMe-AI-Assistant)** – RAG-based chatbot using Langchain, Google APIs, and Streamlit with <100ms latency.
+- **AskMe: AI Assistant** – RAG-based chatbot using Langchain, Google APIs, and Streamlit with <100ms latency.
 - **Real-Time Anti-Spoofing Detector** – Live face spoofing prevention using DL and OpenCV.
 - **Bitcoin Trend Predictor** – Predicts BTC price trends using LSTM models.
 - **Duplicate Questionnaire Checker** – NLP-based similarity checker for form questions.
