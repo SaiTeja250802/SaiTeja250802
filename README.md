@@ -1,7 +1,8 @@
 <!-- Banner (optional) -->
 <!-- ![banner](https://github.com/SaiTeja250802/SaiTeja250802/blob/main/git%20banner.png) -->
 
-<h1 align="center">Hi 👋, I'm Sai Teja</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align:middle">, I'm Sai Teja</h1>
+
 <h3 align="center">🚀 A Passionate AI Developer | Data Scientist | Full-Stack Web Developer</h3>
 
 <p align="center">
